@@ -129,19 +129,19 @@ body {
 }
 
 .results-box.sunrise {
-  background-image: url('/img/sunrise.jpg');
+  background-image: url('img/sunrise.jpg');
 }
 
 .results-box.day {
-  background-image: url('/img/day.jpg');
+  background-image: url('img/day.jpg');
 }
 
 .results-box.sunset {
-  background-image: url('/img/sunset.jpg');
+  background-image: url('img/sunset.jpg');
 }
 
 .results-box.night {
-  background-image: url('/img/night.jpg');
+  background-image: url('img/night.jpg');
 }
 
 .results-heading {
